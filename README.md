@@ -1,1 +1,1 @@
-Project for my native american relgions class
+New year, new personal [website](https://lukehartman.dev) :)
