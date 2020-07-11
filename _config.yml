@@ -1,0 +1,22 @@
+# Setup
+title:               Luke Hartman
+tagline:             'woohoo life is beautiful'
+description:         'lover of software development, brazilian jiu jitsu, & maté'
+url:                 https://lukehartman.dev
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Luke Hartman
+  url:               github.com/l-hartman
+  email:             ljhartman10@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
