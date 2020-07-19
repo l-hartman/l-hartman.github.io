@@ -2,7 +2,7 @@
 title:               Luke Hartman
 tagline:             '~/'
 description:         'lover of software development, brazilian jiu jitsu, & maté'
-url:                 https://lukehartman.dev/
+url:                 https://luhart.dev/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Luke Hartman
-  url:               github.com/l-hartman
+  url:               github.com/luhart
   email:             ljhartman10@gmail.com
 
 # Gems
